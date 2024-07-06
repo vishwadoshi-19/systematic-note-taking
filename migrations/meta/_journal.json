@@ -1,0 +1,27 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1720278620585,
+      "tag": "0000_parched_morlun",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1720281119712,
+      "tag": "0001_gorgeous_banshee",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1720281872680,
+      "tag": "0002_peaceful_pandemic",
+      "breakpoints": true
+    }
+  ]
+}
